@@ -106,12 +106,17 @@
     color: var(--color-dark-900);
  }
 
- .input-field input {
+.input-field input {
     border: none;
     background-color: transparent;
-    width: 260px;
+    width: 100%; /* Agora ocupa 100% do espaço disponível */
     font-size: 18px;
     padding: 0px 0px;
+ }
+
+ .input-field {
+    /* Remova a largura fixa daqui também se tiver */
+    width: 100%;
  }
 
 .input-field input:focus {
@@ -168,3 +173,5 @@
         background-color:var(--color-dark-100); 
     }
 }
+
+
