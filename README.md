@@ -1,10 +1,10 @@
-# 🌙 Formulário de Login com Modo Escuro/Claro | HTML, CSS e JS
+#  Formulário de Login com Modo Escuro/Claro | HTML, CSS e JS
 
 Um formulário de login moderno, responsivo e com alternância entre **modo claro** e **modo escuro** com um simples clique. Desenvolvido com **HTML5**, **CSS3** e **JavaScript**, ideal para quem busca aprender front-end com um visual elegante e recursos interativos.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Alternância entre **modo escuro** e **modo claro** com ícone (lua/sol).
 - Interface com layout limpo, responsivo e estilizado com **gradiente animado**.
@@ -14,7 +14,7 @@ Um formulário de login moderno, responsivo e com alternância entre **modo clar
 
 ---
 
-## 🎯 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (variáveis, gradientes, animações)
@@ -24,7 +24,7 @@ Um formulário de login moderno, responsivo e com alternância entre **modo clar
 
 ---
 
-## 📸 Deploy do projeto
+##  Deploy do projeto
 https://dark-light-form.netlify.app
 
 ---
